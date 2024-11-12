@@ -1,0 +1,9 @@
+hall=11.25
+kit=18.8
+liv=20.8
+bed=10.75
+bath=9.50
+areas=["hallroom",hall,"kitchen",kit,"living room",liv,"bed room", bed,"bath room",bath]
+areas2=[18.8,20.8,10.75,9.50]
+print(areas)
+print(areas2)
